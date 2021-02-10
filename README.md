@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=c0OejstgCBA&feature=youtu.be&ab_channel=abcd
 
 the car tracks but maintains a distance from yellow line using camera (opencv, scikit)
 
-the camera was equipped, negatively affects performance
+the camera was equipped at high position, negatively affects performance
 
 3/ raspberry communicates to webserver via http to read location 
 
