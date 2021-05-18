@@ -1,5 +1,5 @@
 # line_following_car_using_camera---accident-detection---onboard_raspberry_http_and_webserver
-these are some demonstrations of my childhood works. they may not be impressive buy they are memory
+these are some demonstrations of my childhood's works. they may not be impressive but they are memory
 
 1/ accident detection:
 
@@ -9,11 +9,11 @@ the impact on the helmet represents the accident, mobile phone automatically sho
 
 2/ autonomous car line following using camera
 
-https://www.youtube.com/watch?v=c0OejstgCBA&feature=youtu.be&ab_channel=abcd
+https://www.youtube.com/watch?v=N2AC2ItEWm4
 
-the car tracks but maintains a distance from yellow line using camera (opencv, scikit)
+measure distance from the car to the lane by front camera (opencv, scikit)
 
-the camera was equipped at high position, negatively affects performance
+
 3/ IOT: Arduino+Wifi module: control a LED from web-server interface
 https://www.youtube.com/watch?v=5v2kAJvwj-0&ab_channel=abcd
 
